@@ -1,0 +1,7 @@
+Gustav 120286-7676 true
+Hans 839574-4747 true
+Mark 489201-4882 true
+Markus 477489-3782 true
+Mark 378829-3892 true
+Christian 488829-3882 false
+Mark 388200-8922 false
